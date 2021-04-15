@@ -17,7 +17,7 @@
 - e. CONVERSIONS ( type1 -> type2 )
 
 ### 2. concept of fixed point
-- ![image](/uploads/0ae109d4300d11722c53531d1a9615ac/image.png)
+![image](/image/6.png)
 - a. data types in computer langauge always have fixed length
 - b. in fixed point decimal point position of specific number should be fixed
 - c. mean of s3132
